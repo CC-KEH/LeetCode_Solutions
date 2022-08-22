@@ -1,4 +1,4 @@
-package com.company.DataStructuresTwo;
+package com.company.DataStructuresTwo.Arrays;
 
 import java.util.ArrayList;
 import java.util.Arrays;
